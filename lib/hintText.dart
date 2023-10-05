@@ -1,0 +1,20 @@
+var list_hintText = [
+  "What's Your Restroom Gem?",
+  "Make Your Favorite Restroom Famous...",
+  "What's Your Ideal Washroom Oasis?",
+  "Favoutire bathroom...",
+  "Share Your Bathroom Bliss...",
+  "Which Loo Suits Your Style Best?",
+  "Rave and Review Your Restroom Picks...",
+  "Review Your Most Remarkable Pit Stop...",
+  "Let's Know About Your Favorite Loo...",
+  "Create Your Restroom Wishlist...",
+  "Let's Elevate Your Loo Game...",
+  "Create Your Restroom Wishlist...",
+  "Locate Your Go-To Lavatory...",
+  "Spotless Restrooms, Just a Tap Away...",
+  "No More Bathroom Emergencies...",
+  "Don't Hold It In - Reserve Now...",
+  "Restroom Rentals at Your Fingertips...",
+
+];
